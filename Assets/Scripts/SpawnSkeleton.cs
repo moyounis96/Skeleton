@@ -8,9 +8,9 @@ public class SpawnSkeleton : MonoBehaviour
 {
     private ARRaycastManager _raycastManager;
     private GameObject defaultSkeleton;
-    public GameObject skeletonPrefab;
     private List<ARRaycastHit> hits = new List<ARRaycastHit>();
     private Transform spawnedSkeleton;
+    public GameObject skeletonPrefab;
     void Awake()
     {
         _raycastManager = GetComponent<ARRaycastManager>();
