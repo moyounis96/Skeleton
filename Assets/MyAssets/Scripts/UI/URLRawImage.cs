@@ -17,7 +17,7 @@ public class URLRawImage : RawImage
                 CacheManager.Instance.DownloadTexture(m_Url, FileType.rawImage, DownloadTextureCallback);
         }
     }
-    void Start()
+    new void Start()
     {
         base.Start();
         if (!string.IsNullOrEmpty(m_Url))

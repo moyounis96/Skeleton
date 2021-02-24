@@ -9,7 +9,6 @@ public class LoginScreenUI : MonoBehaviour
     public TMP_InputField email;
     public TMP_InputField password;
     public UITransition container;
-    public UITransition chooseMallScreen;
 
     private void Awake()
     {
