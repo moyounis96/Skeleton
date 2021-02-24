@@ -15,9 +15,12 @@ public class ILogger : MonoBehaviour
 
 	private void Awake()
 	{
-		Instance = this;
-		transition = GetComponent<UITransition>();
-        img = GetComponent<Image> ();
+        if (!Instance)
+        {
+            Instance = this;
+            transition = GetComponent<UITransition>();
+            img = GetComponent<Image>();
+        }
 	}
 	public void ShowMessage(string msg, LoggerType type = LoggerType.error, float duration = 5f)
 	{
@@ -53,6 +56,8 @@ public class ILogger : MonoBehaviour
         text.gameObject.SetActive (false);
         Invoke ("ShowText", 0.1f);
 		transition.Invoke("Hide", duration);
+        gameObject.SetActive(false);
+        gameObject.SetActive(true);
 	}
     private void ShowText () {
         text.gameObject.SetActive (true);

@@ -11,8 +11,11 @@ public class CacheManager : MonoBehaviour {
     public static CacheManager Instance;
     void Awake()
     {
-        pathBase = Application.persistentDataPath + "/Cache/";
-        Instance = this;
+        if (!Instance)
+        {
+            pathBase = Application.persistentDataPath + "/Cache/";
+            Instance = this;
+        }
     }
     void Start()
     {

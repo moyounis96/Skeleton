@@ -12,11 +12,34 @@ public class LoginScreenUI : MonoBehaviour
 
     private void Awake()
     {
-        Instance = this;
+        if (!Instance)
+        {
+            Instance = this;
+        }
     }
     private void Start()
     {
         TryAutoLogin();
+    }
+
+    bool isExiting = false;
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            if(isExiting)
+            {
+                Debug.Log("Quit");
+                Application.Quit();
+            }
+            isExiting = true;
+            ILogger.Instance.ShowMessage("Press back again to leave!", LoggerType.warning);
+            Invoke("SetIsExiting", 1f);
+        }
+    }
+    void SetIsExiting()
+    {
+        isExiting = false;
     }
     public void TryAutoLogin()
     {

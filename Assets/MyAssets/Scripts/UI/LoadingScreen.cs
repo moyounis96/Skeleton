@@ -15,9 +15,12 @@ public class LoadingScreen : MonoBehaviour
     private List<UITransition> anchoredLoadings = new List<UITransition>();
     void Awake()
     {
-        Instance = this;
-        transition = GetComponent<UITransition>();
-        text = GetComponentInChildren<RTLTMPro.RTLTextMeshPro>();
+        if (!Instance)
+        {
+            Instance = this;
+            transition = GetComponent<UITransition>();
+            text = GetComponentInChildren<RTLTMPro.RTLTextMeshPro>();
+        }
     }
     private void Update()
     {
