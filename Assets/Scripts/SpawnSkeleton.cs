@@ -6,11 +6,13 @@ using UnityEngine.XR.ARSubsystems;
 [RequireComponent(typeof(ARRaycastManager))]
 public class SpawnSkeleton : MonoBehaviour
 {
+    public static SpawnSkeleton Instance;
     private ARRaycastManager _raycastManager;
     private GameObject defaultSkeleton;
     private List<ARRaycastHit> hits = new List<ARRaycastHit>();
     private Transform spawnedSkeleton;
     public GameObject skeletonPrefab;
+    public UITransition modelsInfo;
     void Awake()
     {
         _raycastManager = GetComponent<ARRaycastManager>();

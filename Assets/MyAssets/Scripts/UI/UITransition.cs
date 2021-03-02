@@ -8,6 +8,7 @@ public abstract class UITransition : MonoBehaviour
     public abstract void Hide();
     public abstract float Duration();
 
+    public bool autoSetActiveState = true;
     [HideInInspector] public bool shown = false;
     public void SetVisible(bool visible)
     {
@@ -18,6 +19,6 @@ public abstract class UITransition : MonoBehaviour
     }
     public void SetChildrenActive (bool active)
     {
-        gameObject.SetActive(active);
+        if(autoSetActiveState) gameObject.SetActive(active);
     }
 }
