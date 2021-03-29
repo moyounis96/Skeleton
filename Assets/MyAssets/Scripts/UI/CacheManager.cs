@@ -14,6 +14,8 @@ public class CacheManager : MonoBehaviour {
         if (!Instance)
         {
             pathBase = Application.persistentDataPath + "/Cache/";
+            if (!Directory.Exists(pathBase))
+                Directory.CreateDirectory(pathBase);
             Instance = this;
         }
     }
