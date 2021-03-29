@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 6861901970090369522}
   - component: {fileID: 4744357999005427174}
   - component: {fileID: 4306817436855127234}
-  - component: {fileID: 5602866964725365680}
   m_Layer: 0
   m_Name: Muscular_Flexor_Digitorum_Longus
   m_TagString: Untagged
@@ -97,20 +96,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6887736269627982826, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &5602866964725365680
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 146477763167117312}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &157159528063488578
 GameObject:
   m_ObjectHideFlags: 0
@@ -123,7 +108,6 @@ GameObject:
   - component: {fileID: 2711589439964473555}
   - component: {fileID: 7690883395331564836}
   - component: {fileID: 6888207824267426374}
-  - component: {fileID: 8325300263379082542}
   m_Layer: 0
   m_Name: Muscular_Interspinales
   m_TagString: Untagged
@@ -208,20 +192,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4067469269348386523, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8325300263379082542
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 157159528063488578}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &178512828093575388
 GameObject:
   m_ObjectHideFlags: 0
@@ -234,7 +204,6 @@ GameObject:
   - component: {fileID: 4817803696481898871}
   - component: {fileID: 2709379156743513610}
   - component: {fileID: 4596297988753269236}
-  - component: {fileID: 5045470978290261826}
   m_Layer: 0
   m_Name: Muscular_Gluteus_Minimus
   m_TagString: Untagged
@@ -319,20 +288,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 886730774363443404, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &5045470978290261826
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 178512828093575388}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &294409648310105715
 GameObject:
   m_ObjectHideFlags: 0
@@ -456,7 +411,6 @@ GameObject:
   - component: {fileID: 859582649512865274}
   - component: {fileID: 5673347462501040025}
   - component: {fileID: 3172093646729467108}
-  - component: {fileID: 516130256782725980}
   m_Layer: 0
   m_Name: Muscular_Levator_Costarum
   m_TagString: Untagged
@@ -541,20 +495,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -7977544897454458879, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &516130256782725980
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 335121285861128585}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &422792745119164728
 GameObject:
   m_ObjectHideFlags: 0
@@ -567,7 +507,6 @@ GameObject:
   - component: {fileID: 8443780286194893214}
   - component: {fileID: 399149509313071498}
   - component: {fileID: 2387272782811885726}
-  - component: {fileID: 1060256080365145940}
   m_Layer: 0
   m_Name: Muscular_Obliquus_Capitis_Inferi
   m_TagString: Untagged
@@ -652,20 +591,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8678999302140003275, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &1060256080365145940
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 422792745119164728}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &500238862444867305
 GameObject:
   m_ObjectHideFlags: 0
@@ -678,7 +603,6 @@ GameObject:
   - component: {fileID: 5657384258918408041}
   - component: {fileID: 7761762276013126262}
   - component: {fileID: 2917434736129983998}
-  - component: {fileID: 2909587093850121420}
   m_Layer: 0
   m_Name: Muscular_Flexor_Digitorum_Superf
   m_TagString: Untagged
@@ -763,20 +687,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2756085319949629630, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &2909587093850121420
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 500238862444867305}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &500687243594275459
 GameObject:
   m_ObjectHideFlags: 0
@@ -789,7 +699,6 @@ GameObject:
   - component: {fileID: 8801107330280611604}
   - component: {fileID: 2277577811758874149}
   - component: {fileID: 7611663840430081007}
-  - component: {fileID: 4406531690926902707}
   m_Layer: 0
   m_Name: Muscular_Subscapularis
   m_TagString: Untagged
@@ -874,20 +783,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 6939457527199030063, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &4406531690926902707
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 500687243594275459}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &527668030095241278
 GameObject:
   m_ObjectHideFlags: 0
@@ -900,7 +795,6 @@ GameObject:
   - component: {fileID: 121618576655275536}
   - component: {fileID: 5976259480602460574}
   - component: {fileID: 3341360949646205264}
-  - component: {fileID: 6631961430063312143}
   m_Layer: 0
   m_Name: Muscular_Peroneus_Brevis
   m_TagString: Untagged
@@ -985,20 +879,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8901355532478079639, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &6631961430063312143
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 527668030095241278}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &742740661674552357
 GameObject:
   m_ObjectHideFlags: 0
@@ -1011,7 +891,6 @@ GameObject:
   - component: {fileID: 5417740988769343357}
   - component: {fileID: 2278073808239474905}
   - component: {fileID: 4714244302096927212}
-  - component: {fileID: 4478460451871142095}
   m_Layer: 0
   m_Name: Muscular_Opponens_Pollicis
   m_TagString: Untagged
@@ -1096,20 +975,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1001737879147026968, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &4478460451871142095
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 742740661674552357}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &755071698222665627
 GameObject:
   m_ObjectHideFlags: 0
@@ -1122,7 +987,6 @@ GameObject:
   - component: {fileID: 5667456912338379091}
   - component: {fileID: 7154991265632058481}
   - component: {fileID: 5130208094173175521}
-  - component: {fileID: 8705962969370493575}
   m_Layer: 0
   m_Name: Muscular_Extensor_Digitorum_Long
   m_TagString: Untagged
@@ -1207,20 +1071,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2971177577982481702, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8705962969370493575
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 755071698222665627}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &816296438009120350
 GameObject:
   m_ObjectHideFlags: 0
@@ -1344,7 +1194,6 @@ GameObject:
   - component: {fileID: 7523139742901265106}
   - component: {fileID: 1406210916208114793}
   - component: {fileID: 741262559034646153}
-  - component: {fileID: 309328701897305442}
   m_Layer: 0
   m_Name: Muscular_Obliquus_Capitis_Superi
   m_TagString: Untagged
@@ -1429,20 +1278,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 8253723726132704881, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &309328701897305442
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 823054094177051216}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &859243320875476315
 GameObject:
   m_ObjectHideFlags: 0
@@ -1455,7 +1290,6 @@ GameObject:
   - component: {fileID: 2962626317110771230}
   - component: {fileID: 2529744853475094331}
   - component: {fileID: 2798574501670701381}
-  - component: {fileID: 6671434522175105336}
   m_Layer: 0
   m_Name: Muscular_Scalenus_Posterior
   m_TagString: Untagged
@@ -1540,20 +1374,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -4836720406656810845, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &6671434522175105336
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 859243320875476315}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &870872201938013747
 GameObject:
   m_ObjectHideFlags: 0
@@ -1566,7 +1386,6 @@ GameObject:
   - component: {fileID: 5482826908947842306}
   - component: {fileID: 7621905008864033551}
   - component: {fileID: 149112330089884866}
-  - component: {fileID: 1845610748550583198}
   m_Layer: 0
   m_Name: Muscular_Obliquus_Externus
   m_TagString: Untagged
@@ -1651,20 +1470,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6992572980713430356, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &1845610748550583198
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 870872201938013747}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &973527092071331050
 GameObject:
   m_ObjectHideFlags: 0
@@ -1677,7 +1482,6 @@ GameObject:
   - component: {fileID: 10298291620484349}
   - component: {fileID: 8633645187386532453}
   - component: {fileID: 2105096835827809798}
-  - component: {fileID: 1364343373114036356}
   m_Layer: 0
   m_Name: Muscular_Flexor_Hallucis_Brevis
   m_TagString: Untagged
@@ -1762,20 +1566,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6144986470480807271, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &1364343373114036356
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 973527092071331050}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &1114490496974213492
 GameObject:
   m_ObjectHideFlags: 0
@@ -1788,7 +1578,6 @@ GameObject:
   - component: {fileID: 5194263020377744307}
   - component: {fileID: 4015831098783353178}
   - component: {fileID: 4742881423656756104}
-  - component: {fileID: 7136377404840656119}
   m_Layer: 0
   m_Name: Muscular_Flexor_Carpi_Ulnaris
   m_TagString: Untagged
@@ -1873,20 +1662,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -4862018381750375951, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7136377404840656119
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1114490496974213492}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &1216994702503085045
 GameObject:
   m_ObjectHideFlags: 0
@@ -1899,7 +1674,6 @@ GameObject:
   - component: {fileID: 68895747629404185}
   - component: {fileID: 6558518575298539830}
   - component: {fileID: 4767094011191016496}
-  - component: {fileID: 7985224939133058474}
   m_Layer: 0
   m_Name: Muscular_Plantar_Interossei
   m_TagString: Untagged
@@ -1984,20 +1758,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 16033429431488440, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7985224939133058474
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1216994702503085045}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &1290243437444534576
 GameObject:
   m_ObjectHideFlags: 0
@@ -2010,7 +1770,6 @@ GameObject:
   - component: {fileID: 8823244770932512858}
   - component: {fileID: 7848318492974783268}
   - component: {fileID: 8380774003915171985}
-  - component: {fileID: 1349107964060052248}
   m_Layer: 0
   m_Name: Muscular_Scalenus_Anterior
   m_TagString: Untagged
@@ -2095,20 +1854,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5270684594714021317, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &1349107964060052248
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1290243437444534576}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &1376600048739747910
 GameObject:
   m_ObjectHideFlags: 0
@@ -2121,7 +1866,6 @@ GameObject:
   - component: {fileID: 355711425538515681}
   - component: {fileID: 7593130436667026615}
   - component: {fileID: 8311460769548959547}
-  - component: {fileID: 7292438263610479793}
   m_Layer: 0
   m_Name: Muscular_Digastricus
   m_TagString: Untagged
@@ -2206,20 +1950,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7631663527893159553, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7292438263610479793
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1376600048739747910}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &1610770071669932451
 GameObject:
   m_ObjectHideFlags: 0
@@ -2232,7 +1962,6 @@ GameObject:
   - component: {fileID: 7902960719595129261}
   - component: {fileID: 6099446617275633996}
   - component: {fileID: 6363566921089491697}
-  - component: {fileID: 377081100763660573}
   m_Layer: 0
   m_Name: Muscular_Depressor_Anguli_Oris
   m_TagString: Untagged
@@ -2317,20 +2046,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4742950091036853643, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &377081100763660573
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1610770071669932451}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &1711679392672218938
 GameObject:
   m_ObjectHideFlags: 0
@@ -2343,7 +2058,6 @@ GameObject:
   - component: {fileID: 6612739318432388127}
   - component: {fileID: 3787526229845541942}
   - component: {fileID: 6784889892039789570}
-  - component: {fileID: 1551328034329751681}
   m_Layer: 0
   m_Name: Muscular_Corrugator
   m_TagString: Untagged
@@ -2428,20 +2142,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 6128752447770680727, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &1551328034329751681
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1711679392672218938}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &1801919297034889924
 GameObject:
   m_ObjectHideFlags: 0
@@ -2454,7 +2154,6 @@ GameObject:
   - component: {fileID: 8003211176919794805}
   - component: {fileID: 3379645660519930519}
   - component: {fileID: 64966296217360873}
-  - component: {fileID: 6732782732533818223}
   m_Layer: 0
   m_Name: Muscular_Psoas_Major
   m_TagString: Untagged
@@ -2539,20 +2238,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 5572776520936976692, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &6732782732533818223
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1801919297034889924}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &1836888226812406656
 GameObject:
   m_ObjectHideFlags: 0
@@ -2565,7 +2250,6 @@ GameObject:
   - component: {fileID: 1471477761150660493}
   - component: {fileID: 5388561843398186170}
   - component: {fileID: 5639218571696651693}
-  - component: {fileID: 2831582691090650330}
   m_Layer: 0
   m_Name: Muscular_Plantar_Lumbricales
   m_TagString: Untagged
@@ -2650,20 +2334,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2256135858841054322, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &2831582691090650330
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1836888226812406656}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &1866736223161540212
 GameObject:
   m_ObjectHideFlags: 0
@@ -2676,7 +2346,6 @@ GameObject:
   - component: {fileID: 6442214154897347481}
   - component: {fileID: 1965417312941625635}
   - component: {fileID: 8465285150217916476}
-  - component: {fileID: 3979632021888842462}
   m_Layer: 0
   m_Name: Muscular_Semispinalis_Capitis
   m_TagString: Untagged
@@ -2761,20 +2430,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5939507647234427269, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &3979632021888842462
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1866736223161540212}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &1919291210794856536
 GameObject:
   m_ObjectHideFlags: 0
@@ -2787,7 +2442,6 @@ GameObject:
   - component: {fileID: 8218804897476298255}
   - component: {fileID: 2291662830813275335}
   - component: {fileID: 3287040561511014333}
-  - component: {fileID: 8909749721875243462}
   m_Layer: 0
   m_Name: Muscular_Abductor_Hallucis
   m_TagString: Untagged
@@ -2872,20 +2526,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7617278240461896924, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8909749721875243462
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1919291210794856536}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &2134560603176313416
 GameObject:
   m_ObjectHideFlags: 0
@@ -2898,7 +2538,6 @@ GameObject:
   - component: {fileID: 8162286179546357558}
   - component: {fileID: 6012951451916412612}
   - component: {fileID: 1613647238082677421}
-  - component: {fileID: 3791990595670910560}
   m_Layer: 0
   m_Name: Muscular_Pectoralis_Minor
   m_TagString: Untagged
@@ -2983,20 +2622,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1890502702629445854, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &3791990595670910560
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2134560603176313416}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &2148061381356629562
 GameObject:
   m_ObjectHideFlags: 0
@@ -3009,7 +2634,6 @@ GameObject:
   - component: {fileID: 6972058208965676027}
   - component: {fileID: 1759667141999045526}
   - component: {fileID: 3491121136162413780}
-  - component: {fileID: 6461947342072049654}
   m_Layer: 0
   m_Name: Muscular_Occipitalis
   m_TagString: Untagged
@@ -3094,20 +2718,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -3940742264677519535, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &6461947342072049654
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2148061381356629562}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &2166762585268508485
 GameObject:
   m_ObjectHideFlags: 0
@@ -3120,7 +2730,6 @@ GameObject:
   - component: {fileID: 4586184396874013334}
   - component: {fileID: 1034409350561107430}
   - component: {fileID: 6472573774268385395}
-  - component: {fileID: 4375332575436443976}
   m_Layer: 0
   m_Name: Muscular_Lumbricales_Palmares
   m_TagString: Untagged
@@ -3205,20 +2814,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -9133867778096563862, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &4375332575436443976
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2166762585268508485}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &2181202961508974626
 GameObject:
   m_ObjectHideFlags: 0
@@ -3231,7 +2826,6 @@ GameObject:
   - component: {fileID: 9053192260851988177}
   - component: {fileID: 1460122828801176914}
   - component: {fileID: 5666743965926506182}
-  - component: {fileID: 1428758567436316021}
   m_Layer: 0
   m_Name: Muscular_Rectus_Femoris
   m_TagString: Untagged
@@ -3316,20 +2910,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5257240947053047032, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &1428758567436316021
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2181202961508974626}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &2210851142600748921
 GameObject:
   m_ObjectHideFlags: 0
@@ -3342,7 +2922,6 @@ GameObject:
   - component: {fileID: 3305201504150002650}
   - component: {fileID: 614285216054104437}
   - component: {fileID: 8336288159414970111}
-  - component: {fileID: 5873704664208486806}
   m_Layer: 0
   m_Name: Muscular_Obturator_Externus
   m_TagString: Untagged
@@ -3427,20 +3006,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6869139823335724654, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &5873704664208486806
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2210851142600748921}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &2294828069129006970
 GameObject:
   m_ObjectHideFlags: 0
@@ -3453,7 +3018,6 @@ GameObject:
   - component: {fileID: 7060626651953143307}
   - component: {fileID: 5093620287267900879}
   - component: {fileID: 6115504839570861889}
-  - component: {fileID: 510588870425616868}
   m_Layer: 0
   m_Name: Muscular_Temporalis
   m_TagString: Untagged
@@ -3538,20 +3102,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8666616797797415654, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &510588870425616868
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2294828069129006970}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &2306568666204678540
 GameObject:
   m_ObjectHideFlags: 0
@@ -3564,7 +3114,6 @@ GameObject:
   - component: {fileID: 1266659721139050592}
   - component: {fileID: 2882759243468770426}
   - component: {fileID: 2244033117189053608}
-  - component: {fileID: 8663472207972495144}
   m_Layer: 0
   m_Name: Muscular_Extensor_Hallucis_Longu
   m_TagString: Untagged
@@ -3649,20 +3198,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1717366503085919420, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8663472207972495144
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2306568666204678540}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &2314940473451442932
 GameObject:
   m_ObjectHideFlags: 0
@@ -3675,7 +3210,6 @@ GameObject:
   - component: {fileID: 6493678783347827305}
   - component: {fileID: 9127934952794594113}
   - component: {fileID: 1062925166893021820}
-  - component: {fileID: 8571104225732562981}
   m_Layer: 0
   m_Name: Muscular_Gluteus_Medius
   m_TagString: Untagged
@@ -3760,20 +3294,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4392250180363025790, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8571104225732562981
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2314940473451442932}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &2334662547224108800
 GameObject:
   m_ObjectHideFlags: 0
@@ -3897,7 +3417,6 @@ GameObject:
   - component: {fileID: 4768705491768475814}
   - component: {fileID: 1593488850372152638}
   - component: {fileID: 4855408209459198519}
-  - component: {fileID: 8749209918881243364}
   m_Layer: 0
   m_Name: Muscular_Levator_Labii_Superiori_2
   m_TagString: Untagged
@@ -3982,20 +3501,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 1397309956473495219, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8749209918881243364
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2336114048731300647}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &2363440679893408106
 GameObject:
   m_ObjectHideFlags: 0
@@ -4008,7 +3513,6 @@ GameObject:
   - component: {fileID: 9199013506602862542}
   - component: {fileID: 7252469357431345700}
   - component: {fileID: 981957746939731581}
-  - component: {fileID: 8102132951352855240}
   m_Layer: 0
   m_Name: Muscular_Frontalis
   m_TagString: Untagged
@@ -4093,20 +3597,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6070329002840867922, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8102132951352855240
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2363440679893408106}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &2403173560277801303
 GameObject:
   m_ObjectHideFlags: 0
@@ -4119,7 +3609,6 @@ GameObject:
   - component: {fileID: 4443712783368064685}
   - component: {fileID: 8606447448824136052}
   - component: {fileID: 5061150538863220997}
-  - component: {fileID: 1775386127448063833}
   m_Layer: 0
   m_Name: Muscular_Stylohyoideus
   m_TagString: Untagged
@@ -4204,20 +3693,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5489394846993932234, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &1775386127448063833
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2403173560277801303}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &2467300258144863090
 GameObject:
   m_ObjectHideFlags: 0
@@ -4230,7 +3705,6 @@ GameObject:
   - component: {fileID: 7097275091960146718}
   - component: {fileID: 7023520109082168221}
   - component: {fileID: 9050707190752233644}
-  - component: {fileID: 4644509368912103998}
   m_Layer: 0
   m_Name: Muscular_Masseter
   m_TagString: Untagged
@@ -4315,20 +3789,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1865675270626161863, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &4644509368912103998
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2467300258144863090}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &2747298098494627017
 GameObject:
   m_ObjectHideFlags: 0
@@ -4341,7 +3801,6 @@ GameObject:
   - component: {fileID: 5323285808066145029}
   - component: {fileID: 6330054528412578412}
   - component: {fileID: 8644981735066781193}
-  - component: {fileID: 2537695572833521841}
   m_Layer: 0
   m_Name: Muscular_Auricularis
   m_TagString: Untagged
@@ -4426,20 +3885,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -4320581746236711695, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &2537695572833521841
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2747298098494627017}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &2828135422045448357
 GameObject:
   m_ObjectHideFlags: 0
@@ -4452,7 +3897,6 @@ GameObject:
   - component: {fileID: 813007835204022248}
   - component: {fileID: 6790219059221873741}
   - component: {fileID: 3668501435634306786}
-  - component: {fileID: 438927491979556500}
   m_Layer: 0
   m_Name: Muscular_Rectus_Abdominus
   m_TagString: Untagged
@@ -4537,20 +3981,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -3178663661737645392, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &438927491979556500
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2828135422045448357}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &2921543503620566373
 GameObject:
   m_ObjectHideFlags: 0
@@ -4563,7 +3993,6 @@ GameObject:
   - component: {fileID: 3973174028755279289}
   - component: {fileID: 8360297598633691354}
   - component: {fileID: 8604361996504516196}
-  - component: {fileID: 3071731719527265775}
   m_Layer: 0
   m_Name: Muscular_Mylohyoideus
   m_TagString: Untagged
@@ -4648,20 +4077,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 8186783026516308868, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &3071731719527265775
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2921543503620566373}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3027604635233154583
 GameObject:
   m_ObjectHideFlags: 0
@@ -4674,7 +4089,6 @@ GameObject:
   - component: {fileID: 1225585332516896670}
   - component: {fileID: 7431266261182792028}
   - component: {fileID: 978090821781563921}
-  - component: {fileID: 1927841607263873618}
   m_Layer: 0
   m_Name: Muscular_Rhomboideus
   m_TagString: Untagged
@@ -4759,20 +4173,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -45810507308119821, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &1927841607263873618
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3027604635233154583}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3264203256116161421
 GameObject:
   m_ObjectHideFlags: 0
@@ -4785,7 +4185,6 @@ GameObject:
   - component: {fileID: 2423963083782775100}
   - component: {fileID: 8750571846169311022}
   - component: {fileID: 1073592521800844076}
-  - component: {fileID: 1463888052261720165}
   m_Layer: 0
   m_Name: Muscular_Adductor_Hallucis
   m_TagString: Untagged
@@ -4870,20 +4269,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4966802457830872399, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &1463888052261720165
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3264203256116161421}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3284451475371200040
 GameObject:
   m_ObjectHideFlags: 0
@@ -4896,7 +4281,6 @@ GameObject:
   - component: {fileID: 8968899927602548801}
   - component: {fileID: 2437339603989883224}
   - component: {fileID: 6256050684763848958}
-  - component: {fileID: 8580078279229922299}
   m_Layer: 0
   m_Name: Muscular_Biceps_Femoris
   m_TagString: Untagged
@@ -4981,20 +4365,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -7254590335842721948, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8580078279229922299
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3284451475371200040}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3302269046296061595
 GameObject:
   m_ObjectHideFlags: 0
@@ -5007,7 +4377,6 @@ GameObject:
   - component: {fileID: 1861206214026123985}
   - component: {fileID: 1174221932998343062}
   - component: {fileID: 7579799183498587933}
-  - component: {fileID: 7470739464417062415}
   m_Layer: 0
   m_Name: Muscular_Palmaris_Longus
   m_TagString: Untagged
@@ -5092,20 +4461,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -4813813748631777223, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7470739464417062415
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3302269046296061595}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3384729656404231687
 GameObject:
   m_ObjectHideFlags: 0
@@ -5118,7 +4473,6 @@ GameObject:
   - component: {fileID: 7017287672701754739}
   - component: {fileID: 8009197977679214979}
   - component: {fileID: 5220775652573177811}
-  - component: {fileID: 5519883183797901305}
   m_Layer: 0
   m_Name: Muscular_Infraspinatus
   m_TagString: Untagged
@@ -5203,20 +4557,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2946670535012762634, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &5519883183797901305
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3384729656404231687}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3471397469618396799
 GameObject:
   m_ObjectHideFlags: 0
@@ -5229,7 +4569,6 @@ GameObject:
   - component: {fileID: 6672354764255590831}
   - component: {fileID: 8949934832029497714}
   - component: {fileID: 1551369700458777684}
-  - component: {fileID: 9182327428167884985}
   m_Layer: 0
   m_Name: Muscular_Longissimus_Capitis
   m_TagString: Untagged
@@ -5314,20 +4653,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 5906067355865971157, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &9182327428167884985
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3471397469618396799}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3472076237627607301
 GameObject:
   m_ObjectHideFlags: 0
@@ -5340,7 +4665,6 @@ GameObject:
   - component: {fileID: 197827687000608598}
   - component: {fileID: 4400235704618329875}
   - component: {fileID: 7601131074008004926}
-  - component: {fileID: 4078767480231794925}
   m_Layer: 0
   m_Name: Muscular_Obturator_Internus
   m_TagString: Untagged
@@ -5425,20 +4749,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 6637275150445642583, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &4078767480231794925
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3472076237627607301}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3491856700276918302
 GameObject:
   m_ObjectHideFlags: 0
@@ -5562,7 +4872,6 @@ GameObject:
   - component: {fileID: 1910818795255611860}
   - component: {fileID: 4181686378230911663}
   - component: {fileID: 3219264658067496966}
-  - component: {fileID: 3264483813741971038}
   m_Layer: 0
   m_Name: Muscular_Illiocostalis_Lumborum
   m_TagString: Untagged
@@ -5647,20 +4956,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 5558587363628533549, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &3264483813741971038
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3509717756571255127}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3534248433008722475
 GameObject:
   m_ObjectHideFlags: 0
@@ -5673,7 +4968,6 @@ GameObject:
   - component: {fileID: 6548540332397100159}
   - component: {fileID: 583692648919166305}
   - component: {fileID: 2058693500791751731}
-  - component: {fileID: 1016143126286691524}
   m_Layer: 0
   m_Name: Muscular_Gracilis
   m_TagString: Untagged
@@ -5758,20 +5052,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4916757489445507803, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &1016143126286691524
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3534248433008722475}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3633023926478254633
 GameObject:
   m_ObjectHideFlags: 0
@@ -5784,7 +5064,6 @@ GameObject:
   - component: {fileID: 4622795785229321143}
   - component: {fileID: 1424051274211159083}
   - component: {fileID: 2162672471122590771}
-  - component: {fileID: 1753408551092368677}
   m_Layer: 0
   m_Name: Muscular_Flexor_Pollicis_Longus
   m_TagString: Untagged
@@ -5869,20 +5148,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5136761748575332351, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &1753408551092368677
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3633023926478254633}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3649863145489570624
 GameObject:
   m_ObjectHideFlags: 0
@@ -5895,7 +5160,6 @@ GameObject:
   - component: {fileID: 5832941232102847486}
   - component: {fileID: 5965014210118244457}
   - component: {fileID: 8622699247823011802}
-  - component: {fileID: 4566518697436807742}
   m_Layer: 0
   m_Name: Muscular_Iliacus
   m_TagString: Untagged
@@ -5980,20 +5244,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5730148481636476878, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &4566518697436807742
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3649863145489570624}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3707960373555843839
 GameObject:
   m_ObjectHideFlags: 0
@@ -6006,7 +5256,6 @@ GameObject:
   - component: {fileID: 9019848680964341393}
   - component: {fileID: 8850570862023916204}
   - component: {fileID: 756264281193712264}
-  - component: {fileID: 2781250554943056218}
   m_Layer: 0
   m_Name: Muscular_Dilator_Naris
   m_TagString: Untagged
@@ -6091,20 +5340,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2316560919552486754, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &2781250554943056218
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3707960373555843839}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3719717722284549215
 GameObject:
   m_ObjectHideFlags: 0
@@ -6117,7 +5352,6 @@ GameObject:
   - component: {fileID: 4820113051548176298}
   - component: {fileID: 63487778066727629}
   - component: {fileID: 8671867239883675584}
-  - component: {fileID: 4641054172777860903}
   m_Layer: 0
   m_Name: Muscular_Medial_Deltoideus
   m_TagString: Untagged
@@ -6202,20 +5436,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5783236944657207679, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &4641054172777860903
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3719717722284549215}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3807641937107275618
 GameObject:
   m_ObjectHideFlags: 0
@@ -6228,7 +5448,6 @@ GameObject:
   - component: {fileID: 8743203753222469797}
   - component: {fileID: 3514060058356982}
   - component: {fileID: 7316865915733012713}
-  - component: {fileID: 8846181473910081625}
   m_Layer: 0
   m_Name: Muscular_Levator_Labii_Superiori
   m_TagString: Untagged
@@ -6313,20 +5532,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 6672748514049442660, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8846181473910081625
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3807641937107275618}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3850985411632792168
 GameObject:
   m_ObjectHideFlags: 0
@@ -6339,7 +5544,6 @@ GameObject:
   - component: {fileID: 7233559995362945953}
   - component: {fileID: 7327857307314269089}
   - component: {fileID: 6628614702189622309}
-  - component: {fileID: 8734087215283917925}
   m_Layer: 0
   m_Name: Muscular_Sternohyoideus
   m_TagString: Untagged
@@ -6424,20 +5628,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1284993865176534079, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8734087215283917925
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3850985411632792168}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3856805747320400920
 GameObject:
   m_ObjectHideFlags: 0
@@ -6450,7 +5640,6 @@ GameObject:
   - component: {fileID: 6889362723947519896}
   - component: {fileID: 8099708880543161276}
   - component: {fileID: 1044782005797388465}
-  - component: {fileID: 6571998822182407230}
   m_Layer: 0
   m_Name: Muscular_Latissimus_Dorsi
   m_TagString: Untagged
@@ -6535,20 +5724,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7812887388884913885, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &6571998822182407230
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3856805747320400920}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3862713888467239409
 GameObject:
   m_ObjectHideFlags: 0
@@ -6561,7 +5736,6 @@ GameObject:
   - component: {fileID: 4225158266097565964}
   - component: {fileID: 3200202898346817651}
   - component: {fileID: 8339849215804603957}
-  - component: {fileID: 1562401571002263618}
   m_Layer: 0
   m_Name: Muscular_Anterior_Deltoideus
   m_TagString: Untagged
@@ -6646,20 +5820,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2440537217309960, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &1562401571002263618
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3862713888467239409}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3886962139650223805
 GameObject:
   m_ObjectHideFlags: 0
@@ -6672,7 +5832,6 @@ GameObject:
   - component: {fileID: 1301033361529609323}
   - component: {fileID: 5109678901721472858}
   - component: {fileID: 8821148973269266395}
-  - component: {fileID: 3773970322567699032}
   m_Layer: 0
   m_Name: Muscular_Mentalis
   m_TagString: Untagged
@@ -6757,20 +5916,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -3218011445040956170, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &3773970322567699032
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3886962139650223805}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3910154454602648831
 GameObject:
   m_ObjectHideFlags: 0
@@ -6783,7 +5928,6 @@ GameObject:
   - component: {fileID: 6043039860820076071}
   - component: {fileID: 3659485342255639429}
   - component: {fileID: 188613437002469636}
-  - component: {fileID: 5611057979551565881}
   m_Layer: 0
   m_Name: Muscular_Rectus_Capitis_Posterio
   m_TagString: Untagged
@@ -6868,20 +6012,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -729535588862421705, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &5611057979551565881
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3910154454602648831}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3965574506736013650
 GameObject:
   m_ObjectHideFlags: 0
@@ -6894,7 +6024,6 @@ GameObject:
   - component: {fileID: 1143272023891646408}
   - component: {fileID: 2569382398833673740}
   - component: {fileID: 6454328129272570624}
-  - component: {fileID: 5151123054914261890}
   m_Layer: 0
   m_Name: Muscular_Serratus_Anterior
   m_TagString: Untagged
@@ -6979,20 +6108,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3514501460909521392, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &5151123054914261890
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3965574506736013650}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4003838243476625139
 GameObject:
   m_ObjectHideFlags: 0
@@ -7005,7 +6120,6 @@ GameObject:
   - component: {fileID: 8201653947310593311}
   - component: {fileID: 6273011521210845401}
   - component: {fileID: 680555115994370407}
-  - component: {fileID: 6216122597335001165}
   m_Layer: 0
   m_Name: Muscular_Semitendinosus
   m_TagString: Untagged
@@ -7090,20 +6204,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 8687466381442242002, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &6216122597335001165
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4003838243476625139}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4022936201644555158
 GameObject:
   m_ObjectHideFlags: 0
@@ -7116,7 +6216,6 @@ GameObject:
   - component: {fileID: 3727173077395618911}
   - component: {fileID: 8124843328919752970}
   - component: {fileID: 8736554237338884169}
-  - component: {fileID: 7280177655309615199}
   m_Layer: 0
   m_Name: Muscular_Adductor_Magnus
   m_TagString: Untagged
@@ -7201,20 +6300,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -7337343311114695423, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7280177655309615199
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4022936201644555158}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4061210275843312161
 GameObject:
   m_ObjectHideFlags: 0
@@ -7338,7 +6423,6 @@ GameObject:
   - component: {fileID: 5882388834905301621}
   - component: {fileID: 9028103109635359699}
   - component: {fileID: 5624922718118920001}
-  - component: {fileID: 4938505739208186869}
   m_Layer: 0
   m_Name: Muscular_Omohyoideus
   m_TagString: Untagged
@@ -7423,20 +6507,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4837549099572522119, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &4938505739208186869
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4064867937499534943}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4082400225901120845
 GameObject:
   m_ObjectHideFlags: 0
@@ -7449,7 +6519,6 @@ GameObject:
   - component: {fileID: 6008936267974312102}
   - component: {fileID: 618623653926574520}
   - component: {fileID: 8141119064535954218}
-  - component: {fileID: 1219303738555401601}
   m_Layer: 0
   m_Name: Muscular_Orbicularis_Oris
   m_TagString: Untagged
@@ -7534,20 +6603,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8846397631739243858, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &1219303738555401601
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4082400225901120845}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4086200259750946835
 GameObject:
   m_ObjectHideFlags: 0
@@ -7560,7 +6615,6 @@ GameObject:
   - component: {fileID: 3950382788178830314}
   - component: {fileID: 2750150278512701166}
   - component: {fileID: 5689083640037062780}
-  - component: {fileID: 2816125271904953148}
   m_Layer: 0
   m_Name: Muscular_Adductor_Longus
   m_TagString: Untagged
@@ -7645,20 +6699,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 1521252412553570473, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &2816125271904953148
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4086200259750946835}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4119473367526222969
 GameObject:
   m_ObjectHideFlags: 0
@@ -7671,7 +6711,6 @@ GameObject:
   - component: {fileID: 2069900347451088840}
   - component: {fileID: 2530629621754556979}
   - component: {fileID: 2810859244238923214}
-  - component: {fileID: 6533236362565657751}
   m_Layer: 0
   m_Name: Muscular_Sternothyroideus
   m_TagString: Untagged
@@ -7756,20 +6795,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2802877832344471834, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &6533236362565657751
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4119473367526222969}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4273752765562167136
 GameObject:
   m_ObjectHideFlags: 0
@@ -7893,7 +6918,6 @@ GameObject:
   - component: {fileID: 8689754608637639274}
   - component: {fileID: 5382060084779742443}
   - component: {fileID: 289911154546800371}
-  - component: {fileID: 2652398398248366684}
   m_Layer: 0
   m_Name: Muscular_Pronator_Quadratus
   m_TagString: Untagged
@@ -7978,20 +7002,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4020887946258442684, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &2652398398248366684
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4361137468219339042}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4372037710299684324
 GameObject:
   m_ObjectHideFlags: 0
@@ -8004,7 +7014,6 @@ GameObject:
   - component: {fileID: 7214285223704352278}
   - component: {fileID: 5868926945751914660}
   - component: {fileID: 2433004791321603754}
-  - component: {fileID: 5926344408033276438}
   m_Layer: 0
   m_Name: Muscular_Soleus
   m_TagString: Untagged
@@ -8089,20 +7098,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3525081081324160263, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &5926344408033276438
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4372037710299684324}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4465117331756953116
 GameObject:
   m_ObjectHideFlags: 0
@@ -8115,7 +7110,6 @@ GameObject:
   - component: {fileID: 2135780815255011153}
   - component: {fileID: 6958392536083541216}
   - component: {fileID: 3175157968826859502}
-  - component: {fileID: 4027896725758954019}
   m_Layer: 0
   m_Name: Muscular_Levator_Scapulae
   m_TagString: Untagged
@@ -8200,20 +7194,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6445399746880057455, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &4027896725758954019
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4465117331756953116}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4560536880034823511
 GameObject:
   m_ObjectHideFlags: 0
@@ -8226,7 +7206,6 @@ GameObject:
   - component: {fileID: 4976265262670293937}
   - component: {fileID: 5363539006206359175}
   - component: {fileID: 7716200246700090654}
-  - component: {fileID: 7574938802442211679}
   m_Layer: 0
   m_Name: Muscular_Piriformis
   m_TagString: Untagged
@@ -8311,20 +7290,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8043673645909157589, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7574938802442211679
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4560536880034823511}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4707297424152917287
 GameObject:
   m_ObjectHideFlags: 0
@@ -8337,7 +7302,6 @@ GameObject:
   - component: {fileID: 7364653786563827824}
   - component: {fileID: 4621699221992719070}
   - component: {fileID: 1772090645252999627}
-  - component: {fileID: 618114223220994472}
   m_Layer: 0
   m_Name: Muscular_Supraspinatis
   m_TagString: Untagged
@@ -8422,20 +7386,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -7005527297666109265, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &618114223220994472
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4707297424152917287}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4744845507657737187
 GameObject:
   m_ObjectHideFlags: 0
@@ -8448,7 +7398,6 @@ GameObject:
   - component: {fileID: 4661561953159379510}
   - component: {fileID: 3962095155276298025}
   - component: {fileID: 226387475641916703}
-  - component: {fileID: 5239877329456666309}
   m_Layer: 0
   m_Name: Muscular_Brachialis
   m_TagString: Untagged
@@ -8533,20 +7482,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2325304042437493332, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &5239877329456666309
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4744845507657737187}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4764515672872616359
 GameObject:
   m_ObjectHideFlags: 0
@@ -8559,7 +7494,6 @@ GameObject:
   - component: {fileID: 6821001991981237540}
   - component: {fileID: 172336254112326879}
   - component: {fileID: 3517800774602133407}
-  - component: {fileID: 5081115967923955669}
   m_Layer: 0
   m_Name: Muscular_Hypothenar_Eminence
   m_TagString: Untagged
@@ -8644,20 +7578,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -837687515170664225, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &5081115967923955669
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4764515672872616359}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4792748884342359825
 GameObject:
   m_ObjectHideFlags: 0
@@ -8670,7 +7590,6 @@ GameObject:
   - component: {fileID: 2138221545743155562}
   - component: {fileID: 212297820309406436}
   - component: {fileID: 7139096936268607358}
-  - component: {fileID: 1870106090639123656}
   m_Layer: 0
   m_Name: Muscular_Quadratus_Plantae
   m_TagString: Untagged
@@ -8755,20 +7674,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4702655158551080929, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &1870106090639123656
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4792748884342359825}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4853853430804982637
 GameObject:
   m_ObjectHideFlags: 0
@@ -8781,7 +7686,6 @@ GameObject:
   - component: {fileID: 2400915394947362281}
   - component: {fileID: 7971349768509815961}
   - component: {fileID: 4558851763562448444}
-  - component: {fileID: 920911676965789558}
   m_Layer: 0
   m_Name: Muscular_Popliteus
   m_TagString: Untagged
@@ -8866,20 +7770,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -7510721999631858121, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &920911676965789558
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4853853430804982637}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4869049486645147906
 GameObject:
   m_ObjectHideFlags: 0
@@ -8892,7 +7782,6 @@ GameObject:
   - component: {fileID: 5163370917073157473}
   - component: {fileID: 5217508185268583559}
   - component: {fileID: 5955248013698854499}
-  - component: {fileID: 3999310419096758267}
   m_Layer: 0
   m_Name: Muscular_Sartorius
   m_TagString: Untagged
@@ -8977,20 +7866,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 5347248325481960574, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &3999310419096758267
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4869049486645147906}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4903527208100426976
 GameObject:
   m_ObjectHideFlags: 0
@@ -9003,7 +7878,6 @@ GameObject:
   - component: {fileID: 1364966193616126814}
   - component: {fileID: 6275273266404276111}
   - component: {fileID: 2630632634600301430}
-  - component: {fileID: 943958602664263075}
   m_Layer: 0
   m_Name: Muscular_Serratus_Posterior_Supe
   m_TagString: Untagged
@@ -9088,20 +7962,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 8454602861799935994, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &943958602664263075
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4903527208100426976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5076250642014796038
 GameObject:
   m_ObjectHideFlags: 0
@@ -9225,7 +8085,6 @@ GameObject:
   - component: {fileID: 691162815541866175}
   - component: {fileID: 6622922555526147810}
   - component: {fileID: 80199409109573720}
-  - component: {fileID: 9214180931548529668}
   m_Layer: 0
   m_Name: Muscular_Gastrocnemius
   m_TagString: Untagged
@@ -9310,20 +8169,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 1381266453530682292, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &9214180931548529668
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5080294744855984233}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5092680580545559998
 GameObject:
   m_ObjectHideFlags: 0
@@ -9336,7 +8181,6 @@ GameObject:
   - component: {fileID: 3425068185193920646}
   - component: {fileID: 5672512317515725522}
   - component: {fileID: 8504800498072332058}
-  - component: {fileID: 7808355121133564550}
   m_Layer: 0
   m_Name: Muscular_Semimembranosus
   m_TagString: Untagged
@@ -9421,20 +8265,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2784571335751161329, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7808355121133564550
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5092680580545559998}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5099860842449795170
 GameObject:
   m_ObjectHideFlags: 0
@@ -9447,7 +8277,6 @@ GameObject:
   - component: {fileID: 8576209832057752484}
   - component: {fileID: 3349956106676726612}
   - component: {fileID: 7064867341191210353}
-  - component: {fileID: 5864004241208336444}
   m_Layer: 0
   m_Name: Muscular_Posterior_Deltoideus
   m_TagString: Untagged
@@ -9532,20 +8361,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6577625081817221503, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &5864004241208336444
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5099860842449795170}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5281381000794054466
 GameObject:
   m_ObjectHideFlags: 0
@@ -9558,7 +8373,6 @@ GameObject:
   - component: {fileID: 2021622170136207110}
   - component: {fileID: 7288529787815910661}
   - component: {fileID: 1869342071650038253}
-  - component: {fileID: 7202554083957707677}
   m_Layer: 0
   m_Name: Muscular_Flexor_Carpi_Radialis
   m_TagString: Untagged
@@ -9643,20 +8457,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8520330568543597765, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7202554083957707677
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5281381000794054466}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5287999370496133283
 GameObject:
   m_ObjectHideFlags: 0
@@ -9669,7 +8469,6 @@ GameObject:
   - component: {fileID: 5713398832056449596}
   - component: {fileID: 6404260968199413429}
   - component: {fileID: 2882065574926528407}
-  - component: {fileID: 1332928571123383088}
   m_Layer: 0
   m_Name: Muscular_Extensor_Digitorum
   m_TagString: Untagged
@@ -9754,20 +8553,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7650768355212854821, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &1332928571123383088
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5287999370496133283}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5313908992848775992
 GameObject:
   m_ObjectHideFlags: 0
@@ -9780,7 +8565,6 @@ GameObject:
   - component: {fileID: 1392255307423545286}
   - component: {fileID: 7590850465310493008}
   - component: {fileID: 7581678094039212818}
-  - component: {fileID: 7680065334900978706}
   m_Layer: 0
   m_Name: Muscular_Brachioradialis
   m_TagString: Untagged
@@ -9865,20 +8649,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6524233948645104866, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7680065334900978706
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5313908992848775992}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5350180337201690189
 GameObject:
   m_ObjectHideFlags: 0
@@ -9891,7 +8661,6 @@ GameObject:
   - component: {fileID: 7104314665926917686}
   - component: {fileID: 4611874016466986163}
   - component: {fileID: 1321480252468218968}
-  - component: {fileID: 1642525562610304850}
   m_Layer: 0
   m_Name: Muscular_Dorsal_Plantar_Inteross
   m_TagString: Untagged
@@ -9976,20 +8745,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2686507297205235355, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &1642525562610304850
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5350180337201690189}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5451421648543745411
 GameObject:
   m_ObjectHideFlags: 0
@@ -10002,7 +8757,6 @@ GameObject:
   - component: {fileID: 751140343514898936}
   - component: {fileID: 1739571426164002165}
   - component: {fileID: 5177947400024171410}
-  - component: {fileID: 3373239628034596982}
   m_Layer: 0
   m_Name: Muscular_Extensor_Carpi_Radialis_2
   m_TagString: Untagged
@@ -10087,20 +8841,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6159030997752877030, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &3373239628034596982
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5451421648543745411}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5554730124555704413
 GameObject:
   m_ObjectHideFlags: 0
@@ -10113,7 +8853,6 @@ GameObject:
   - component: {fileID: 5023833978713993547}
   - component: {fileID: 5885158575213440348}
   - component: {fileID: 3388614226237081631}
-  - component: {fileID: 7209070741025869961}
   m_Layer: 0
   m_Name: Muscular_Coracobrachialis
   m_TagString: Untagged
@@ -10198,20 +8937,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4722304559877109062, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7209070741025869961
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5554730124555704413}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5588382934582136904
 GameObject:
   m_ObjectHideFlags: 0
@@ -10224,7 +8949,6 @@ GameObject:
   - component: {fileID: 2634333457135991918}
   - component: {fileID: 6304468255891658467}
   - component: {fileID: 2513825101416767546}
-  - component: {fileID: 741553756104093826}
   m_Layer: 0
   m_Name: Muscular_Quadratus_Lumborum
   m_TagString: Untagged
@@ -10309,20 +9033,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -4743680311767699536, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &741553756104093826
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5588382934582136904}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5625820313298152673
 GameObject:
   m_ObjectHideFlags: 0
@@ -10335,7 +9045,6 @@ GameObject:
   - component: {fileID: 1460453512990523159}
   - component: {fileID: 2605554955885911942}
   - component: {fileID: 4263693533348491828}
-  - component: {fileID: 3675506982532000567}
   m_Layer: 0
   m_Name: Muscular_First_Dorsal_Interosseu
   m_TagString: Untagged
@@ -10420,20 +9129,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 851628763826779334, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &3675506982532000567
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5625820313298152673}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5793383553689825665
 GameObject:
   m_ObjectHideFlags: 0
@@ -10557,7 +9252,6 @@ GameObject:
   - component: {fileID: 3689579138870392627}
   - component: {fileID: 3590734036459109054}
   - component: {fileID: 115207690920854003}
-  - component: {fileID: 5878554137648183611}
   m_Layer: 0
   m_Name: Muscular_Splenius_Capitis_interm
   m_TagString: Untagged
@@ -10642,20 +9336,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7235263286991713935, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &5878554137648183611
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5813443707834642584}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5835291385670864548
 GameObject:
   m_ObjectHideFlags: 0
@@ -10699,7 +9379,6 @@ GameObject:
   - component: {fileID: 4605704235413786586}
   - component: {fileID: 1242160606721657256}
   - component: {fileID: 6319541642260359414}
-  - component: {fileID: 4820659652476286128}
   m_Layer: 0
   m_Name: Muscular_Anconeus
   m_TagString: Untagged
@@ -10784,20 +9463,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3573008288438802493, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &4820659652476286128
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6026414186613489492}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &6068311371302524347
 GameObject:
   m_ObjectHideFlags: 0
@@ -10810,7 +9475,6 @@ GameObject:
   - component: {fileID: 6113444313511523613}
   - component: {fileID: 9186817373500388687}
   - component: {fileID: 8051823415951688179}
-  - component: {fileID: 64945134905151421}
   m_Layer: 0
   m_Name: Muscular_Gluteus_Maximus_superfi
   m_TagString: Untagged
@@ -10895,20 +9559,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5577685501497053926, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &64945134905151421
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6068311371302524347}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &6074870546343773758
 GameObject:
   m_ObjectHideFlags: 0
@@ -10921,7 +9571,6 @@ GameObject:
   - component: {fileID: 313819893068733409}
   - component: {fileID: 1513368022932047600}
   - component: {fileID: 8546087135773704909}
-  - component: {fileID: 2567062203196862312}
   m_Layer: 0
   m_Name: Muscular_Tensor_Fascia_Latae
   m_TagString: Untagged
@@ -11006,20 +9655,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1154860462782230392, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &2567062203196862312
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6074870546343773758}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &6235729708623842361
 GameObject:
   m_ObjectHideFlags: 0
@@ -11032,7 +9667,6 @@ GameObject:
   - component: {fileID: 3231384156341123576}
   - component: {fileID: 8259580996897429839}
   - component: {fileID: 5193357763269536278}
-  - component: {fileID: 7679714063358006149}
   m_Layer: 0
   m_Name: Muscular_Abductor_Pollicis_Longu
   m_TagString: Untagged
@@ -11117,20 +9751,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8687334414712383561, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7679714063358006149
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6235729708623842361}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &6292720083560618523
 GameObject:
   m_ObjectHideFlags: 0
@@ -11143,7 +9763,6 @@ GameObject:
   - component: {fileID: 4722152796448602819}
   - component: {fileID: 8836794733967345170}
   - component: {fileID: 3838276144183905916}
-  - component: {fileID: 2368178547089392971}
   m_Layer: 0
   m_Name: Muscular_Orbicularis_Oculi
   m_TagString: Untagged
@@ -11228,20 +9847,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3245122601938472418, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &2368178547089392971
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6292720083560618523}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &6318124191744334588
 GameObject:
   m_ObjectHideFlags: 0
@@ -11365,7 +9970,6 @@ GameObject:
   - component: {fileID: 483333412404719530}
   - component: {fileID: 5674457180368695731}
   - component: {fileID: 4851507215214603748}
-  - component: {fileID: 6908608933425458729}
   m_Layer: 0
   m_Name: Muscular_Sternocleidomastoideus_
   m_TagString: Untagged
@@ -11450,20 +10054,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 5315436327891501662, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &6908608933425458729
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6387644231147807835}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &6432418003276466290
 GameObject:
   m_ObjectHideFlags: 0
@@ -11587,7 +10177,6 @@ GameObject:
   - component: {fileID: 5745080105907978739}
   - component: {fileID: 6101582878898928496}
   - component: {fileID: 6077846369960263411}
-  - component: {fileID: 3390513778294970218}
   m_Layer: 0
   m_Name: Muscular_Splenius_Cervicis
   m_TagString: Untagged
@@ -11672,20 +10261,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6340864435997511339, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &3390513778294970218
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6500209132465762446}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &6571289309942708407
 GameObject:
   m_ObjectHideFlags: 0
@@ -11698,7 +10273,6 @@ GameObject:
   - component: {fileID: 1802922612122904215}
   - component: {fileID: 688550550709670347}
   - component: {fileID: 4689354919916977421}
-  - component: {fileID: 849060005912907550}
   m_Layer: 0
   m_Name: Muscular_Depressor_Labii_Inferio
   m_TagString: Untagged
@@ -11783,20 +10357,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3293582059991154983, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &849060005912907550
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6571289309942708407}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &6770175478628558185
 GameObject:
   m_ObjectHideFlags: 0
@@ -11809,7 +10369,6 @@ GameObject:
   - component: {fileID: 5479552597921195295}
   - component: {fileID: 8585209036902460042}
   - component: {fileID: 1557452022680528391}
-  - component: {fileID: 5980328890249763547}
   m_Layer: 0
   m_Name: Muscular_Flexor_Digitorum_Brevis
   m_TagString: Untagged
@@ -11894,20 +10453,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 5381999586370666175, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &5980328890249763547
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6770175478628558185}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &6910226875130223961
 GameObject:
   m_ObjectHideFlags: 0
@@ -11920,7 +10465,6 @@ GameObject:
   - component: {fileID: 200460046373852063}
   - component: {fileID: 4370431065555150429}
   - component: {fileID: 5292490522588172492}
-  - component: {fileID: 5285396821452350539}
   m_Layer: 0
   m_Name: Muscular_Extensor_Pollicis_Longu
   m_TagString: Untagged
@@ -12005,20 +10549,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6976687079675610930, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &5285396821452350539
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6910226875130223961}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &6978193763834128404
 GameObject:
   m_ObjectHideFlags: 0
@@ -12031,7 +10561,6 @@ GameObject:
   - component: {fileID: 2849775272264917832}
   - component: {fileID: 3241953954019521370}
   - component: {fileID: 5848674225434120521}
-  - component: {fileID: 2314640793432017551}
   m_Layer: 0
   m_Name: Muscular_Extensor_Carpi_Radialis
   m_TagString: Untagged
@@ -12116,20 +10645,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 509703589151394323, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &2314640793432017551
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6978193763834128404}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &7157252810050305693
 GameObject:
   m_ObjectHideFlags: 0
@@ -12142,7 +10657,6 @@ GameObject:
   - component: {fileID: 8582792025469672096}
   - component: {fileID: 721077140519909144}
   - component: {fileID: 509383075556408610}
-  - component: {fileID: 7466633918904981559}
   m_Layer: 0
   m_Name: Muscular_Rectus_Capitis_Posterio_2
   m_TagString: Untagged
@@ -12227,20 +10741,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8758050302080930867, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7466633918904981559
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7157252810050305693}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &7170944131758753235
 GameObject:
   m_ObjectHideFlags: 0
@@ -12253,7 +10753,6 @@ GameObject:
   - component: {fileID: 9201675149659925600}
   - component: {fileID: 6642937358562963122}
   - component: {fileID: 8528740867271928298}
-  - component: {fileID: 4725282317006552706}
   m_Layer: 0
   m_Name: Muscular_Extensor_Digitorum_Brev
   m_TagString: Untagged
@@ -12338,20 +10837,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2718426373826246468, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &4725282317006552706
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7170944131758753235}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &7218980836468286416
 GameObject:
   m_ObjectHideFlags: 0
@@ -12364,7 +10849,6 @@ GameObject:
   - component: {fileID: 478419665949399784}
   - component: {fileID: 8355966979592000279}
   - component: {fileID: 6298736579769545354}
-  - component: {fileID: 4449894697262084589}
   m_Layer: 0
   m_Name: Muscular_Flexor_Digiti_Minimi_Br
   m_TagString: Untagged
@@ -12449,20 +10933,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -4088768243343638456, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &4449894697262084589
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7218980836468286416}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &7337852275717619766
 GameObject:
   m_ObjectHideFlags: 0
@@ -12475,7 +10945,6 @@ GameObject:
   - component: {fileID: 911833565261552708}
   - component: {fileID: 2531131866994787709}
   - component: {fileID: 1292555335246559372}
-  - component: {fileID: 4833960227051392801}
   m_Layer: 0
   m_Name: Muscular_Flexor_Hallucis_Longus
   m_TagString: Untagged
@@ -12560,20 +11029,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4422579182097528065, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &4833960227051392801
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7337852275717619766}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &7529404005691171735
 GameObject:
   m_ObjectHideFlags: 0
@@ -12586,7 +11041,6 @@ GameObject:
   - component: {fileID: 7250041752405867243}
   - component: {fileID: 4446541801037336224}
   - component: {fileID: 300537694333226957}
-  - component: {fileID: 8117427790346708081}
   m_Layer: 0
   m_Name: Muscular_Psoas_Minor
   m_TagString: Untagged
@@ -12671,20 +11125,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7147128379488032555, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8117427790346708081
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7529404005691171735}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &7551535625754813521
 GameObject:
   m_ObjectHideFlags: 0
@@ -12808,7 +11248,6 @@ GameObject:
   - component: {fileID: 7383962962215128862}
   - component: {fileID: 4699792590436024439}
   - component: {fileID: 6460370286389043597}
-  - component: {fileID: 6868777423993306995}
   m_Layer: 0
   m_Name: Muscular_Longus_Colli
   m_TagString: Untagged
@@ -12893,20 +11332,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 6012084356660149853, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &6868777423993306995
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7559980341393192521}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &7773351391005528800
 GameObject:
   m_ObjectHideFlags: 0
@@ -12919,7 +11344,6 @@ GameObject:
   - component: {fileID: 545338435696364357}
   - component: {fileID: 1131915945232104475}
   - component: {fileID: 3446070413801196350}
-  - component: {fileID: 8207600446068129308}
   m_Layer: 0
   m_Name: Muscular_Adductor_Brevis
   m_TagString: Untagged
@@ -13004,20 +11428,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3208016604735481579, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8207600446068129308
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7773351391005528800}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &7784582140695140994
 GameObject:
   m_ObjectHideFlags: 0
@@ -13030,7 +11440,6 @@ GameObject:
   - component: {fileID: 107544530901395667}
   - component: {fileID: 3784076928769935349}
   - component: {fileID: 692196281884316756}
-  - component: {fileID: 2775351012643142823}
   m_Layer: 0
   m_Name: Muscular_Obliquus_Internus
   m_TagString: Untagged
@@ -13115,20 +11524,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8043004367497407670, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &2775351012643142823
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7784582140695140994}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &7799627042241790956
 GameObject:
   m_ObjectHideFlags: 0
@@ -13252,7 +11647,6 @@ GameObject:
   - component: {fileID: 8750691012887300584}
   - component: {fileID: 7895812490418682140}
   - component: {fileID: 9049013905311565020}
-  - component: {fileID: 947114688586835511}
   m_Layer: 0
   m_Name: Muscular_Pectineus
   m_TagString: Untagged
@@ -13337,20 +11731,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 8242551931737867050, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &947114688586835511
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7857331053839793510}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8007511461934461644
 GameObject:
   m_ObjectHideFlags: 0
@@ -13363,7 +11743,6 @@ GameObject:
   - component: {fileID: 1196251702709208367}
   - component: {fileID: 8030170197793233679}
   - component: {fileID: 6681638355635671616}
-  - component: {fileID: 8652364244496148524}
   m_Layer: 0
   m_Name: Muscular_Plantaris
   m_TagString: Untagged
@@ -13448,20 +11827,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -3485620845852256616, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8652364244496148524
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8007511461934461644}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8109092361388846399
 GameObject:
   m_ObjectHideFlags: 0
@@ -13474,7 +11839,6 @@ GameObject:
   - component: {fileID: 3377618754971521797}
   - component: {fileID: 8340917586387352779}
   - component: {fileID: 6990645456432245052}
-  - component: {fileID: 8140176865265582506}
   m_Layer: 0
   m_Name: Muscular_Pronator_Teres
   m_TagString: Untagged
@@ -13559,20 +11923,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7730022363607979567, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8140176865265582506
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8109092361388846399}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8134488336713889538
 GameObject:
   m_ObjectHideFlags: 0
@@ -13585,7 +11935,6 @@ GameObject:
   - component: {fileID: 2838783025042932426}
   - component: {fileID: 3418068165435289351}
   - component: {fileID: 8847846759863214752}
-  - component: {fileID: 7597583787136287443}
   m_Layer: 0
   m_Name: Muscular_Peroneus_Tertius
   m_TagString: Untagged
@@ -13670,20 +12019,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -3275523469176689518, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7597583787136287443
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8134488336713889538}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8170117982512178298
 GameObject:
   m_ObjectHideFlags: 0
@@ -13696,7 +12031,6 @@ GameObject:
   - component: {fileID: 8153736352472630503}
   - component: {fileID: 3701018687685391973}
   - component: {fileID: 9115078313431196697}
-  - component: {fileID: 2702133694650877049}
   m_Layer: 0
   m_Name: Muscular_Longus_Capitus
   m_TagString: Untagged
@@ -13781,20 +12115,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4722947987011667505, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &2702133694650877049
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8170117982512178298}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8196938770555147144
 GameObject:
   m_ObjectHideFlags: 0
@@ -13807,7 +12127,6 @@ GameObject:
   - component: {fileID: 2914955024995395065}
   - component: {fileID: 834905114560996330}
   - component: {fileID: 7822072445435252346}
-  - component: {fileID: 809645871281318945}
   m_Layer: 0
   m_Name: Muscular_Adductor_Pollicis
   m_TagString: Untagged
@@ -13892,20 +12211,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2194360976428182628, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &809645871281318945
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8196938770555147144}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8206113614151137007
 GameObject:
   m_ObjectHideFlags: 0
@@ -13918,7 +12223,6 @@ GameObject:
   - component: {fileID: 8326269524229762632}
   - component: {fileID: 7635630388021414494}
   - component: {fileID: 3077307908474499994}
-  - component: {fileID: 1886973905439558939}
   m_Layer: 0
   m_Name: Muscular_Peroneus_Longus
   m_TagString: Untagged
@@ -14003,20 +12307,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 543248602653874570, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &1886973905439558939
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8206113614151137007}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8265625054690530789
 GameObject:
   m_ObjectHideFlags: 0
@@ -14029,7 +12319,6 @@ GameObject:
   - component: {fileID: 5472206149417963196}
   - component: {fileID: 7975231416491743429}
   - component: {fileID: 5966356637218540315}
-  - component: {fileID: 3595216138421099097}
   m_Layer: 0
   m_Name: Muscular_Nasalis
   m_TagString: Untagged
@@ -14114,20 +12403,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -3896871988906346442, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &3595216138421099097
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8265625054690530789}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8303573093195271013
 GameObject:
   m_ObjectHideFlags: 0
@@ -14140,7 +12415,6 @@ GameObject:
   - component: {fileID: 7757937734445812670}
   - component: {fileID: 7472789964927278898}
   - component: {fileID: 8919544989070228403}
-  - component: {fileID: 3455696275365064073}
   m_Layer: 0
   m_Name: Muscular_Caninus
   m_TagString: Untagged
@@ -14225,20 +12499,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6958535146212699454, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &3455696275365064073
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8303573093195271013}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8314565694616659550
 GameObject:
   m_ObjectHideFlags: 0
@@ -14251,7 +12511,6 @@ GameObject:
   - component: {fileID: 2248802228063181112}
   - component: {fileID: 5361784973559313535}
   - component: {fileID: 5916098975708121294}
-  - component: {fileID: 4639206880986777662}
   m_Layer: 0
   m_Name: Muscular_Extensor_Carpi_Ulnaris
   m_TagString: Untagged
@@ -14336,20 +12595,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 1459208105677056869, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &4639206880986777662
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8314565694616659550}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8331656369536438125
 GameObject:
   m_ObjectHideFlags: 0
@@ -14533,7 +12778,6 @@ GameObject:
   - component: {fileID: 2240330982408483518}
   - component: {fileID: 3775799155173668408}
   - component: {fileID: 8048773344694930337}
-  - component: {fileID: 4246418175449075070}
   m_Layer: 0
   m_Name: Muscular_Buccinator
   m_TagString: Untagged
@@ -14618,20 +12862,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4596123417774331603, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &4246418175449075070
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8479801536709781846}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8495434235017088581
 GameObject:
   m_ObjectHideFlags: 0
@@ -14644,7 +12874,6 @@ GameObject:
   - component: {fileID: 8509199656901520814}
   - component: {fileID: 7848291146316438806}
   - component: {fileID: 7089344636988950073}
-  - component: {fileID: 8702241874452521578}
   m_Layer: 0
   m_Name: Muscular_Abductor_Digiti_Minimi
   m_TagString: Untagged
@@ -14729,20 +12958,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2182159357711266000, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8702241874452521578
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8495434235017088581}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8505271380671606762
 GameObject:
   m_ObjectHideFlags: 0
@@ -14755,7 +12970,6 @@ GameObject:
   - component: {fileID: 7512244599343148768}
   - component: {fileID: 2528215105511214275}
   - component: {fileID: 7261555871324747621}
-  - component: {fileID: 3835763720582424701}
   m_Layer: 0
   m_Name: Muscular_Quadratus_Femoris
   m_TagString: Untagged
@@ -14840,20 +13054,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1166542308004862253, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &3835763720582424701
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8505271380671606762}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8624338881850578455
 GameObject:
   m_ObjectHideFlags: 0
@@ -14866,7 +13066,6 @@ GameObject:
   - component: {fileID: 7493717934930403965}
   - component: {fileID: 5036623379033149063}
   - component: {fileID: 7436226550705645404}
-  - component: {fileID: 8114481548939716950}
   m_Layer: 0
   m_Name: Muscular_Procerus
   m_TagString: Untagged
@@ -14951,20 +13150,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 8085626313343536620, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8114481548939716950
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8624338881850578455}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8710412235831981117
 GameObject:
   m_ObjectHideFlags: 0
@@ -14977,7 +13162,6 @@ GameObject:
   - component: {fileID: 5894436218912056796}
   - component: {fileID: 659178303993440817}
   - component: {fileID: 2318303159275761942}
-  - component: {fileID: 7362711428346426636}
   m_Layer: 0
   m_Name: Muscular_Serratus_Posterior_Infe
   m_TagString: Untagged
@@ -15062,20 +13246,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3951982513270802857, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7362711428346426636
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8710412235831981117}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8753448338731377545
 GameObject:
   m_ObjectHideFlags: 0
@@ -15088,7 +13258,6 @@ GameObject:
   - component: {fileID: 4949183304331312548}
   - component: {fileID: 581798474070651957}
   - component: {fileID: 3938868137698667186}
-  - component: {fileID: 7092317100371772426}
   m_Layer: 0
   m_Name: Muscular_Spinalis_Dorsi
   m_TagString: Untagged
@@ -15173,20 +13342,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5571110715499134566, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7092317100371772426
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8753448338731377545}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8763320913259418082
 GameObject:
   m_ObjectHideFlags: 0
@@ -15199,7 +13354,6 @@ GameObject:
   - component: {fileID: 3326994734164459421}
   - component: {fileID: 3297164316154055056}
   - component: {fileID: 2323188850069000435}
-  - component: {fileID: 6092974277782504106}
   m_Layer: 0
   m_Name: Muscular_Auricularis_Posterior
   m_TagString: Untagged
@@ -15284,20 +13438,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -4825188615820364078, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &6092974277782504106
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8763320913259418082}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8941091900848439698
 GameObject:
   m_ObjectHideFlags: 0
@@ -15310,7 +13450,6 @@ GameObject:
   - component: {fileID: 7290215469865105279}
   - component: {fileID: 3385161050723065799}
   - component: {fileID: 4906561828966396882}
-  - component: {fileID: 6633509030069756918}
   m_Layer: 0
   m_Name: Muscular_Interossei_Palmares
   m_TagString: Untagged
@@ -15395,20 +13534,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4214037325518378293, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &6633509030069756918
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8941091900848439698}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8967099859282745481
 GameObject:
   m_ObjectHideFlags: 0
@@ -15421,7 +13546,6 @@ GameObject:
   - component: {fileID: 4235242678811032101}
   - component: {fileID: 4017505791813861806}
   - component: {fileID: 1179763627700650868}
-  - component: {fileID: 7824491023366764235}
   m_Layer: 0
   m_Name: Muscular_Biceps_Brachii
   m_TagString: Untagged
@@ -15506,20 +13630,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -7679947144156426666, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7824491023366764235
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8967099859282745481}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &9140973502881062933
 GameObject:
   m_ObjectHideFlags: 0
@@ -15643,7 +13753,6 @@ GameObject:
   - component: {fileID: 8142990185933757996}
   - component: {fileID: 6459867922901380711}
   - component: {fileID: 2516681802971338843}
-  - component: {fileID: 8059043074817883043}
   m_Layer: 0
   m_Name: Muscular_Dorsal_Intersosseus
   m_TagString: Untagged
@@ -15728,20 +13837,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4540109836415386063, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8059043074817883043
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9190483439961791150}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &9215155639929572037
 GameObject:
   m_ObjectHideFlags: 0
@@ -15754,7 +13849,6 @@ GameObject:
   - component: {fileID: 1893825817062675437}
   - component: {fileID: 6838414425714142286}
   - component: {fileID: 6339164973501046450}
-  - component: {fileID: 3004437236254263520}
   m_Layer: 0
   m_Name: Muscular_Pectoralis_Major
   m_TagString: Untagged
@@ -15839,17 +13933,3 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -4700436738335793272, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &3004437236254263520
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9215155639929572037}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 

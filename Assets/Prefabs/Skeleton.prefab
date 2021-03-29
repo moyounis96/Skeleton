@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 1161564829622597718}
   - component: {fileID: 4645235373725291339}
   - component: {fileID: 4665221088664173323}
-  - component: {fileID: 2066263724861274163}
   m_Layer: 0
   m_Name: Skeletal_Cervical_Vertebra
   m_TagString: Untagged
@@ -97,20 +96,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -7611926160799258151, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &2066263724861274163
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 84046644454439387}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &933418271753611526
 GameObject:
   m_ObjectHideFlags: 0
@@ -123,7 +108,6 @@ GameObject:
   - component: {fileID: 261433323755196755}
   - component: {fileID: 3554014133662661114}
   - component: {fileID: 4929806187611155017}
-  - component: {fileID: 8238814798641717462}
   m_Layer: 0
   m_Name: Skeletal_Cranium
   m_TagString: Untagged
@@ -208,20 +192,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5805695611805116315, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8238814798641717462
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 933418271753611526}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &1151374643957042644
 GameObject:
   m_ObjectHideFlags: 0
@@ -234,7 +204,6 @@ GameObject:
   - component: {fileID: 5501080152801762947}
   - component: {fileID: 9054743591632237726}
   - component: {fileID: 2201786668862574241}
-  - component: {fileID: 4940758756698671297}
   m_Layer: 0
   m_Name: Skeletal_Calcaneus
   m_TagString: Untagged
@@ -319,20 +288,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -4975985659899280327, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &4940758756698671297
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1151374643957042644}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &1419466822659680883
 GameObject:
   m_ObjectHideFlags: 0
@@ -345,7 +300,6 @@ GameObject:
   - component: {fileID: 2835550724991041764}
   - component: {fileID: 4612427279172966713}
   - component: {fileID: 668428202629274384}
-  - component: {fileID: 3925645575107240407}
   m_Layer: 0
   m_Name: Skeletal_Humerus
   m_TagString: Untagged
@@ -430,20 +384,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7131073151133057294, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &3925645575107240407
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1419466822659680883}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &1567865174480212068
 GameObject:
   m_ObjectHideFlags: 0
@@ -456,7 +396,6 @@ GameObject:
   - component: {fileID: 2333622169397532715}
   - component: {fileID: 1386245073175804306}
   - component: {fileID: 3970459503359834402}
-  - component: {fileID: 4793058749900702348}
   m_Layer: 0
   m_Name: Skeletal_Patella
   m_TagString: Untagged
@@ -541,20 +480,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3717321430251779460, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &4793058749900702348
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1567865174480212068}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &2344991851814519411
 GameObject:
   m_ObjectHideFlags: 0
@@ -567,7 +492,6 @@ GameObject:
   - component: {fileID: 7890670071193303952}
   - component: {fileID: 2240347327718951015}
   - component: {fileID: 5636867387928468637}
-  - component: {fileID: 3004338759561721295}
   m_Layer: 0
   m_Name: Skeletal_Ribs
   m_TagString: Untagged
@@ -652,20 +576,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7571019676177649681, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &3004338759561721295
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2344991851814519411}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &2846365001211741260
 GameObject:
   m_ObjectHideFlags: 0
@@ -678,7 +588,6 @@ GameObject:
   - component: {fileID: 2567957210327305475}
   - component: {fileID: 7355303998566238441}
   - component: {fileID: 7448773878910756394}
-  - component: {fileID: 6642066179766343497}
   m_Layer: 0
   m_Name: Skeletal_Radius
   m_TagString: Untagged
@@ -763,20 +672,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5555990151827323917, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &6642066179766343497
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2846365001211741260}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3059584064053980370
 GameObject:
   m_ObjectHideFlags: 0
@@ -789,7 +684,6 @@ GameObject:
   - component: {fileID: 720656346881387274}
   - component: {fileID: 2132310413538737894}
   - component: {fileID: 6553291815006083993}
-  - component: {fileID: 6207296418243302667}
   m_Layer: 0
   m_Name: Skeletal_Scapula
   m_TagString: Untagged
@@ -874,20 +768,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 6300598640802420419, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &6207296418243302667
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3059584064053980370}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3615873240017297608
 GameObject:
   m_ObjectHideFlags: 0
@@ -900,7 +780,6 @@ GameObject:
   - component: {fileID: 6585595373982135612}
   - component: {fileID: 8616522184943721699}
   - component: {fileID: 1838853047493043469}
-  - component: {fileID: 7918945028278110518}
   m_Layer: 0
   m_Name: Skeletal_Carpal
   m_TagString: Untagged
@@ -985,20 +864,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -4453445433485931055, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7918945028278110518
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3615873240017297608}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4478644498322776135
 GameObject:
   m_ObjectHideFlags: 0
@@ -1011,7 +876,6 @@ GameObject:
   - component: {fileID: 2420336920431374391}
   - component: {fileID: 8293222319100894645}
   - component: {fileID: 4538647174845650395}
-  - component: {fileID: 7644509969660560028}
   m_Layer: 0
   m_Name: Skeletal_Malleolus
   m_TagString: Untagged
@@ -1096,20 +960,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4023687347314429961, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7644509969660560028
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4478644498322776135}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &4952716195786978673
 GameObject:
   m_ObjectHideFlags: 0
@@ -1122,7 +972,6 @@ GameObject:
   - component: {fileID: 5906505060274234936}
   - component: {fileID: 6597577973027644182}
   - component: {fileID: 8626096454527779595}
-  - component: {fileID: 289003879610140947}
   m_Layer: 0
   m_Name: Skeletal_Fibula
   m_TagString: Untagged
@@ -1207,20 +1056,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6334740843197139635, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &289003879610140947
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4952716195786978673}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5069898300112526431
 GameObject:
   m_ObjectHideFlags: 0
@@ -1344,7 +1179,6 @@ GameObject:
   - component: {fileID: 6410258821625420947}
   - component: {fileID: 8043847449193303255}
   - component: {fileID: 2940913825765698774}
-  - component: {fileID: 628895456845527042}
   m_Layer: 0
   m_Name: Skeletal_Tibia
   m_TagString: Untagged
@@ -1429,20 +1263,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8360790682406274969, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &628895456845527042
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5132791340456353534}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5395084788069447146
 GameObject:
   m_ObjectHideFlags: 0
@@ -1455,7 +1275,6 @@ GameObject:
   - component: {fileID: 8148123565617895581}
   - component: {fileID: 2226186172244144343}
   - component: {fileID: 1393261741900219588}
-  - component: {fileID: 2401790901590490675}
   m_Layer: 0
   m_Name: Skeletal_Metatarsal
   m_TagString: Untagged
@@ -1540,20 +1359,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3443197146858711499, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &2401790901590490675
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5395084788069447146}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5556702735681397710
 GameObject:
   m_ObjectHideFlags: 0
@@ -1566,7 +1371,6 @@ GameObject:
   - component: {fileID: 2038339531558099325}
   - component: {fileID: 2018902748674705899}
   - component: {fileID: 3104965473455029773}
-  - component: {fileID: 8001668686127047885}
   m_Layer: 0
   m_Name: Skeletal_Ulna
   m_TagString: Untagged
@@ -1651,20 +1455,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -879598343298579640, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8001668686127047885
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5556702735681397710}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5686053620175305456
 GameObject:
   m_ObjectHideFlags: 0
@@ -1677,7 +1467,6 @@ GameObject:
   - component: {fileID: 564253325870877682}
   - component: {fileID: 4796425321483982486}
   - component: {fileID: 2888579438967417825}
-  - component: {fileID: 8547351142462672229}
   m_Layer: 0
   m_Name: Skeletal_Metacarpal
   m_TagString: Untagged
@@ -1762,20 +1551,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1873493463184202805, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8547351142462672229
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5686053620175305456}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5812001947175579924
 GameObject:
   m_ObjectHideFlags: 0
@@ -1788,7 +1563,6 @@ GameObject:
   - component: {fileID: 4161753188185164079}
   - component: {fileID: 4621917817447902153}
   - component: {fileID: 4402243049145014738}
-  - component: {fileID: 6059117341872362138}
   m_Layer: 0
   m_Name: Skeletal_Sternum
   m_TagString: Untagged
@@ -1873,20 +1647,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1635057065274964613, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &6059117341872362138
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5812001947175579924}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5835291385670864548
 GameObject:
   m_ObjectHideFlags: 0
@@ -1897,7 +1657,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5649896492205897384}
   m_Layer: 0
-  m_Name: Skeleton_highPoly
+  m_Name: Skeleton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1986,7 +1746,6 @@ GameObject:
   - component: {fileID: 5156755760316749806}
   - component: {fileID: 1984232796313364295}
   - component: {fileID: 3235394117323425673}
-  - component: {fileID: 3025099287467371169}
   m_Layer: 0
   m_Name: Skeletal_Tarsal
   m_TagString: Untagged
@@ -2071,20 +1830,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1881151841473564470, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &3025099287467371169
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6270589236540507997}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &6499118931920791676
 GameObject:
   m_ObjectHideFlags: 0
@@ -2097,7 +1842,6 @@ GameObject:
   - component: {fileID: 2478911502586472966}
   - component: {fileID: 4988399621155697734}
   - component: {fileID: 7859190996316876011}
-  - component: {fileID: 8595654886205979387}
   m_Layer: 0
   m_Name: Skeletal_Vertebral_Column
   m_TagString: Untagged
@@ -2182,20 +1926,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -3189634005149529812, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8595654886205979387
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6499118931920791676}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &6956939185844139517
 GameObject:
   m_ObjectHideFlags: 0
@@ -2208,7 +1938,6 @@ GameObject:
   - component: {fileID: 5251953800804476069}
   - component: {fileID: 8949017702789709769}
   - component: {fileID: 1638877941437202929}
-  - component: {fileID: 4193024759339616653}
   m_Layer: 0
   m_Name: Skeletal_Femur
   m_TagString: Untagged
@@ -2293,20 +2022,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7931727118800221309, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &4193024759339616653
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6956939185844139517}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &7223923183311406788
 GameObject:
   m_ObjectHideFlags: 0
@@ -2319,7 +2034,6 @@ GameObject:
   - component: {fileID: 4641728691996516213}
   - component: {fileID: 4489689805300948808}
   - component: {fileID: 9058653209884254457}
-  - component: {fileID: 2475346175839149262}
   m_Layer: 0
   m_Name: Skeletal_Mandible
   m_TagString: Untagged
@@ -2404,20 +2118,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 8900769141181761095, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &2475346175839149262
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7223923183311406788}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &7976817015444402090
 GameObject:
   m_ObjectHideFlags: 0
@@ -2430,7 +2130,6 @@ GameObject:
   - component: {fileID: 3033366479999360692}
   - component: {fileID: 7270526974657599126}
   - component: {fileID: 234383576315206008}
-  - component: {fileID: 8286885955396032141}
   m_Layer: 0
   m_Name: Skeletal_Pubis
   m_TagString: Untagged
@@ -2515,20 +2214,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2953688685244890513, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8286885955396032141
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7976817015444402090}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8355320046002203917
 GameObject:
   m_ObjectHideFlags: 0
@@ -2541,7 +2226,6 @@ GameObject:
   - component: {fileID: 1951834423753333500}
   - component: {fileID: 5041584127426585700}
   - component: {fileID: 3864187066966382966}
-  - component: {fileID: 8816100863000992350}
   m_Layer: 0
   m_Name: Skeletal_Clavicle
   m_TagString: Untagged
@@ -2626,20 +2310,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2367942817839131442, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &8816100863000992350
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8355320046002203917}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8431830992330427583
 GameObject:
   m_ObjectHideFlags: 0
@@ -2652,7 +2322,6 @@ GameObject:
   - component: {fileID: 7519538822356763847}
   - component: {fileID: 4138440253616298262}
   - component: {fileID: 1937286685008567293}
-  - component: {fileID: 7709831379509569930}
   m_Layer: 0
   m_Name: Skeletal_Phalanges_Hand
   m_TagString: Untagged
@@ -2737,20 +2406,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -4548383199791823244, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7709831379509569930
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8431830992330427583}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8831738969933350714
 GameObject:
   m_ObjectHideFlags: 0
@@ -2763,7 +2418,6 @@ GameObject:
   - component: {fileID: 3485724847951513875}
   - component: {fileID: 5615989067977402818}
   - component: {fileID: 3171615232735361248}
-  - component: {fileID: 1118766993347572851}
   m_Layer: 0
   m_Name: Skeletal_Phalanges_Foot
   m_TagString: Untagged
@@ -2848,20 +2502,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3562924409697840522, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &1118766993347572851
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8831738969933350714}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &9097417019636758923
 GameObject:
   m_ObjectHideFlags: 0
@@ -2874,7 +2514,6 @@ GameObject:
   - component: {fileID: 5826410336045125494}
   - component: {fileID: 5891947185271311829}
   - component: {fileID: 4310083689132383380}
-  - component: {fileID: 3428922754134147171}
   m_Layer: 0
   m_Name: Skeletal_Sacrum
   m_TagString: Untagged
@@ -2959,17 +2598,3 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 9068542621687172450, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &3428922754134147171
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9097417019636758923}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 

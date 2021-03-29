@@ -48,7 +48,6 @@ GameObject:
   - component: {fileID: 7494421281228577485}
   - component: {fileID: 2610567791257177476}
   - component: {fileID: 8406017039505544507}
-  - component: {fileID: 5394068701288101122}
   m_Layer: 0
   m_Name: Nervous_Amygdala
   m_TagString: Untagged
@@ -133,20 +132,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6325021578902248181, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &5394068701288101122
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1609280436177285017}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3206321189128272028
 GameObject:
   m_ObjectHideFlags: 0
@@ -159,7 +144,6 @@ GameObject:
   - component: {fileID: 4458849967028984003}
   - component: {fileID: 1449493097338825517}
   - component: {fileID: 3746873035551163881}
-  - component: {fileID: 710834850337384260}
   m_Layer: 0
   m_Name: Nervous_Nerves
   m_TagString: Untagged
@@ -244,20 +228,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4325714183800443096, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &710834850337384260
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3206321189128272028}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &3560440707997262417
 GameObject:
   m_ObjectHideFlags: 0
@@ -270,7 +240,6 @@ GameObject:
   - component: {fileID: 5400281459384551505}
   - component: {fileID: 2670897289741815814}
   - component: {fileID: 2744286575103009966}
-  - component: {fileID: 7254294390614634817}
   m_Layer: 0
   m_Name: Nervous_Medulla_Caudate_Nucleus
   m_TagString: Untagged
@@ -355,20 +324,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2044646799515369408, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7254294390614634817
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3560440707997262417}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5536454307429207096
 GameObject:
   m_ObjectHideFlags: 0
@@ -381,7 +336,6 @@ GameObject:
   - component: {fileID: 7216700462630253584}
   - component: {fileID: 2006144448084557024}
   - component: {fileID: 556903947954349145}
-  - component: {fileID: 7409717923655529094}
   m_Layer: 0
   m_Name: Nervous_Cerebrum_Multicolor
   m_TagString: Untagged
@@ -469,20 +423,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3250980933439760379, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7409717923655529094
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5536454307429207096}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &5835291385670864548
 GameObject:
   m_ObjectHideFlags: 0
@@ -526,7 +466,6 @@ GameObject:
   - component: {fileID: 8129688611891928086}
   - component: {fileID: 1906171218448009459}
   - component: {fileID: 1699569267938507002}
-  - component: {fileID: 58540634045313819}
   m_Layer: 0
   m_Name: Nervous_Cerebellum
   m_TagString: Untagged
@@ -611,20 +550,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 6852121359921862036, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &58540634045313819
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8825448672492996747}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
 --- !u!1 &8982453654074394253
 GameObject:
   m_ObjectHideFlags: 0
@@ -637,7 +562,6 @@ GameObject:
   - component: {fileID: 8150496922941792462}
   - component: {fileID: 4561484510688430281}
   - component: {fileID: 2750214920392353585}
-  - component: {fileID: 7355762171502720970}
   m_Layer: 0
   m_Name: Nervous_Cerebrum
   m_TagString: Untagged
@@ -722,17 +646,3 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 8678381546771835591, guid: e568785b7003cc44081967b5b6da3b13, type: 3}
---- !u!114 &7355762171502720970
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8982453654074394253}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6cf69c393b8ed884ca15a6582f9f6987, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  title: 
-  description: 
